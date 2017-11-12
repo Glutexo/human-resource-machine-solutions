@@ -1,0 +1,25 @@
+-- HUMAN RESOURCE MACHINE PROGRAM --
+
+    JUMP     c
+a:
+    COMMENT  0
+    COPYTO   0
+    SUB      0
+    SUB      0
+b:
+    OUTBOX  
+c:
+    INBOX   
+    JUMPN    a
+    COMMENT  1
+    JUMP     b
+
+
+DEFINE COMMENT 0
+eJxjZWBgyOI+V86ve66cyehkSYXpyRKGUTAKRsGIAQA8nQac;
+
+DEFINE COMMENT 1
+eJxTZmBg8BX7bOYr9rgNyGTI5dqS+pBvS+o+abXobXJq0SCxJzbfLdNsmhwLLOaH/TG2zlqmord3o8LR
+syA5X1f34ovO7sVXnLzLoh0et8Xaf550365u1n27nUdi7fceD3Z2P+/sefSssb/RgY3+atuN/RnmbPfN
+7XP2DKk56Xau/IrTyZLrjt5l1x0DKhlGwSgYBXQHAM/UOPs;
+
